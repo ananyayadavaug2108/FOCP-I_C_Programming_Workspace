@@ -20,4 +20,3 @@ int main()
     printf("Grade: %c\n", grade);
 
     return 0;
-}
